@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+button {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
+p {
+  text-align: center;
+  font-family: sans-serif;
+}
